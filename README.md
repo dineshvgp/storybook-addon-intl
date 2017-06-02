@@ -22,7 +22,7 @@ In your `config.js` import the `setIntlConfig` and `withIntl` function. Use `set
 for `react-intl` and `withIntl´ as decorator.
 
 ```js
-import { addDecorator, configure } from '@kadira/storybook';
+import { addDecorator, configure } from '@storybook/react';
 import { setIntlConfig, withIntl } from '../preview';
 
 // Load the locale data for all your defined locales

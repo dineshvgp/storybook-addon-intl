@@ -1,4 +1,4 @@
-import addons from '@kadira/storybook-addons';
+import addons from '@storybook/addons';
 import { register } from '../';
 import { ADDON_ID, PANEL_ID } from '../../shared';
 import LocalePanel from '../containers/LocalePanel';

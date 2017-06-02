@@ -1,4 +1,4 @@
-import addons from '@kadira/storybook-addons';
+import addons from '@storybook/addons';
 import { setIntlConfig, withIntl } from '../';
 import { EVENT_SET_CONFIG_ID } from '../../shared';
 import { omit } from '../../utils';
